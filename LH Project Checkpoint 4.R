@@ -7,6 +7,8 @@
 
 # Data Transformations and Exploratory Data Analysis
 
+# Help from https://www.tidytextmining.com/topicmodeling.html
+
 install.packages("tidyverse") # a set of data science tools including dplyr, tidyr and stringr
 install.packages("skimr") # a package to facilitate data summaries
 install.packages("Hmisc") # a package for data analysis
